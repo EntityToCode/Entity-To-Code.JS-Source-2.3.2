@@ -1,0 +1,1 @@
+cmd_Release/단순한.node := c++ -bundle -undefined dynamic_lookup -Wl,-search_paths_first -mmacosx-version-min=10.13 -arch arm64 -L./Release -stdlib=libc++  -o Release/단순한.node Release/obj.target/단순한/단순한.o 

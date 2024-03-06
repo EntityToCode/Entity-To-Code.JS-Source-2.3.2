@@ -1,0 +1,15 @@
+{
+  "name": "entitytocode",
+  "version": "2.3.2",
+  "description": "An npm library with physics and mathematical methods backed by c++",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gavin",
+  "license": "ISC",
+  "dependencies": {
+    "nan": "^2.18.0",
+    "node-gyp": "^10.0.1"
+  }
+}
