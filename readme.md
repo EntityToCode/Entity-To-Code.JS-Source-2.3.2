@@ -4,6 +4,8 @@ Version | 1.0.0 | 2.0.0 | 2.1.0 | 2.2.0 | 2.3.0 | 2.3.1
 --- | --- | --- | --- |--- |--- |---
 Stable | Yes | No | No | Yes | Yes | Yes
 
+
+<a href="https://sourceforge.net/projects/entity-to-code/files/latest/download"><img alt="Download Entity-To-Code" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
 <h2>New feats</h2>
 <h3>2.3.2 (patch)</h3>
 <p><b>readme fix</b></p>
